@@ -1,6 +1,7 @@
 ---
 title: "COVID Dataset"
 output: html_document
+author: "Goutham Arcod"
 date: "2023-05-02"
 ---
 
